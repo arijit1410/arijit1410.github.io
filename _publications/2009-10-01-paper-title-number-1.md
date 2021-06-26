@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "# YouToo? detection of personal recollections of sexual harassment on social media"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'The availability of large-scale online social data, coupled with computational methods can help us answer fundamental questions relat-ing to our social lives, particularly our health and well-being. The# MeToo trend has led to people talking about personal experiences of harassment more openly. This work at-tempts to aggregate such experiences of sex-ual abuse to facilitate a better understanding of social media constructs and to bring about social change. It has been found that disclo-sure of abuse has positive psychological im-pacts. Hence, we contend that such informa-tion can leveraged to create better campaigns for social change by analyzing how users react to these stories and to obtain a better insight into the consequences of sexual abuse. We use a three part Twitter-Specific Social Media Lan-guage Model to segregate personal recollec-tions of sexual harassment from Twitter posts. An extensive comparison with state-of-the-art generic and specific models along with a de-tailed error analysis explores the merit of our proposed model.'
+date: 2019-07-29
+venue: 'ACL 2019'
+paperurl: 'https://www.aclweb.org/anthology/P19-1241.pdf'
+citation: 'Chowdhury, Arijit Ghosh, Ramit Sawhney, Rajiv Shah, and Debanjan Mahata. "# YouToo? detection of personal recollections of sexual harassment on social media." In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pp. 2527-2537. 2019.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The availability of large-scale online social data, coupled with computational methods can help us answer fundamental questions relat-ing to our social lives, particularly our health and well-being. The# MeToo trend has led to people talking about personal experiences of harassment more openly. This work at-tempts to aggregate such experiences of sex-ual abuse to facilitate a better understanding of social media constructs and to bring about social change. It has been found that disclo-sure of abuse has positive psychological im-pacts. Hence, we contend that such informa-tion can leveraged to create better campaigns for social change by analyzing how users react to these stories and to obtain a better insight into the consequences of sexual abuse. We use a three part Twitter-Specific Social Media Lan-guage Model to segregate personal recollec-tions of sexual harassment from Twitter posts. An extensive comparison with state-of-the-art generic and specific models along with a de-tailed error analysis explores the merit of our proposed model.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.aclweb.org/anthology/P19-1241.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Chowdhury, Arijit Ghosh, Ramit Sawhney, Rajiv Shah, and Debanjan Mahata. "# YouToo? detection of personal recollections of sexual harassment on social media." In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pp. 2527-2537. 2019.
