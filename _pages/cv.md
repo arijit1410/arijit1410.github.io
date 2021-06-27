@@ -28,9 +28,9 @@ Work experience
 
 * Since 2019: NLP Research Assistant
   * Multimodal Digital Media Analysis Lab - IIIT Delhi
-  * Created a public dataset and modeled it using a Medium-Specific Language Model to classify tweets as either arecollectionof sexual harassment, or adiscussionon the #MeToo movement.  Presented my work as a long paper at ACL 2019.  Work done in collaboration with Bloomberg New York.
-  * Augmented text classification models for Hate Speech Detection by adding Graph Embeddings to modelcommunity interaction and add an extra signal for prediction of hateful content within Arabic Tweets.  Presentedour work atACM Hypertext 2019andACL-SRW 2019.
-  * Created novel augmentation techniques for text and speech by exploiting hidden space interpolations.  Presentedour work atCOLING 2020andINTERSPEECH 2020.Work done in collaboration withMIT CSAIL.
+  * Created a public dataset and modeled it using a Medium-Specific Language Model to classify tweets as either a recollection of sexual harassment, or a discussionon the #MeToo movement.  Presented my work as a long paper at ACL 2019.  Work done in collaboration with Bloomberg New York.
+  * Augmented text classification models for Hate Speech Detection by adding Graph Embeddings to model community interaction and add an extra signal for prediction of hateful content within Arabic Tweets. Presentedour work at ACM Hypertext 2019 and ACL-SRW 2019.
+  * Created novel augmentation techniques for text and speech by exploiting hidden space interpolations.  Presented our work at COLING 2020 and INTERSPEECH 2020. Work done in collaboration with MIT CSAIL.
   * Supervisor : Dr Rajiv Ratn Shah
 
 
