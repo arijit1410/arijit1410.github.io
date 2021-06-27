@@ -12,4 +12,4 @@ The availability of large-scale online social data, coupled with computational m
 
 [Download paper here](https://www.aclweb.org/anthology/P19-1241.pdf)
 
-Recommended citation: Chowdhury, Arijit Ghosh, Ramit Sawhney, Rajiv Shah, and Debanjan Mahata. "# YouToo? detection of personal recollections of sexual harassment on social media." In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pp. 2527-2537. 2019.
+Chowdhury, Arijit Ghosh, Ramit Sawhney, Rajiv Shah, and Debanjan Mahata. "# YouToo? detection of personal recollections of sexual harassment on social media." In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pp. 2527-2537. 2019.
